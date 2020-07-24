@@ -59,7 +59,7 @@ var special_pool = "!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~".split("");
   console.log(symbols);
   uppercase = confirm("Would you like to include uppercase letters in your password?");
   console.log(uppercase);
-  lowercase = confirm("Would you like tp include lowercase letters  in your password?");
+  lowercase = confirm("Would you like to include lowercase letters  in your password?");
   console.log(lowercase);
   
 
