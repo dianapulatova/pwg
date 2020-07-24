@@ -26,7 +26,7 @@
  
   ### Installation
 
-  To install dependencies, run the following command:
+  To install, run the following command:
 
   ```
   $ git clone <git url>
